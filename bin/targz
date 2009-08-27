@@ -1,0 +1,8 @@
+#!/bin/bash
+if [ -d $1 ]; then
+	rm $1.tar.gz
+	tar cf $1.tar $1
+	gzip $1.tar
+else
+	echo $1 is kein Verzeichnis
+fi
