@@ -1,0 +1,11 @@
+Dieses ist ein Demotext zur heutigen Praktikumsaufgabe.
+Er enthaelt einige Zeilen ASCII-Text.
+Hier koennte auch Binaergeraffel enthalten sein, allerdings wird dann die 
+Bildschirmausgabe korumpiert.
+
+<Datei><Mitte>
+        
+Versuchen Sie es ruhig mit einer Binaerdatei, zum Beispiel der erzeugten
+Objekt-Datei oder der erzeugten ausfuehrbaren exe Datei als Eingabe. 
+So ist die Datei für die Aufgabe goldrichtig.
+

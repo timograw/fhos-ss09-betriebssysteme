@@ -1,0 +1,7 @@
+
+
+
+char *getenv_malloc (const char *name);
+char *strtok_malloc(char * str, const char * delimiters);
+char *malloc_string(const int length);
+char *strcpy_malloc (const char * source);
